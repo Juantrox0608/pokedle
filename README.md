@@ -68,5 +68,3 @@ Game Freak. `download_images.py` los baja desde la PokéAPI en la primera ejecuc
 ## Stack
 
 Python · SQLite · PokéAPI · pandas · pygame · matplotlib / seaborn · Jupyter
-
-Los prompts usados para construirlo con Claude Code están en [PROMPTS.md](PROMPTS.md).

@@ -10,3 +10,6 @@ venv/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Notas propias de desarrollo, no van al repo
+PROMPTS.md
