@@ -1,0 +1,12 @@
+# Sprites descargados desde PokeAPI (127 MB, material con copyright de Nintendo).
+# Se obtienen ejecutando: python data/download_images.py
+assets/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
