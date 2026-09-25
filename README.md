@@ -1,5 +1,8 @@
 # Pokédle
 
+> Proyecto personal de **Juan David Caicedo Cuesta**. Se puede leer, clonar y ejecutar;
+> no acepta contribuciones externas. Licencia MIT: reutilizarlo exige conservar la autoría.
+
 Juego tipo Wordle para adivinar Pokémon, construido sobre un **pipeline ETL propio** que
 consume la [PokéAPI](https://pokeapi.co) y la normaliza en SQLite.
 
@@ -68,3 +71,18 @@ Game Freak. `download_images.py` los baja desde la PokéAPI en la primera ejecuc
 ## Stack
 
 Python · SQLite · PokéAPI · pandas · pygame · matplotlib / seaborn · Jupyter
+
+---
+
+## Autoría y licencia
+
+Escrito por **Juan David Caicedo Cuesta** ([@Juantrox0608](https://github.com/Juantrox0608)).
+
+Publicado bajo [licencia MIT](LICENSE): cualquiera puede usar, copiar o modificar el código
+siempre que conserve el aviso de copyright, es decir, la autoría viaja con el código.
+
+La rama `main` está protegida y el repositorio no acepta pull requests
+(ver [CONTRIBUTING](.github/CONTRIBUTING.md)).
+
+Pokémon y sus sprites son marcas de Nintendo, Game Freak y Creatures Inc.; este proyecto no
+está afiliado a ellos y no redistribuye su material.
